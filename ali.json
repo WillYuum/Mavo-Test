@@ -2,7 +2,9 @@
 	"eventBox": [],
 	"card": [
 		{
-			"image": "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500"
+			"image": "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
+			"text": "hello World",
+			"date": "12/12/12"
 		}
 	]
 }
